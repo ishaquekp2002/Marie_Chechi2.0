@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 ഒന്നിലധികം അഡ്‌മിൻ സവിശേഷതകളുള്ള ഒരു ലളിതമായ ഗ്രൂപ്പ് മാനേജുമെന്റ് ബോട്ട്, ഇത് വികസിച്ചു, വളരെ മോഡുലാർ ആയിത്തീർന്നു. ഉപയോഗിക്കാൻ ലളിതമാണ്.
 
-എന്റെ ന്യൂ ഫീച്ചേർസ് [WhitE_DeviL09](https://t.me/WhitE_DeviL09)പറഞ്ഞു തരുന്നതാണ്....
+എന്റെ ന്യൂ ഫീച്ചേർസ് [WhitE_DeviL09](https://t.me/WhitE_DeviL09) പറഞ്ഞു തരുന്നതാണ്....
 
 എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [മേരി ചേച്ചി 2.0](https://t.me/MarieChechiBot).
 
