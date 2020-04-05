@@ -6,7 +6,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 എന്റെ ന്യൂ ഫീച്ചേർസ് [WhitE_DeviL09](https://t.me/WhitE_DeviL09) പറഞ്ഞു തരുന്നതാണ്....
 
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [മേരി ചേച്ചി 2.0](https://t.me/MarieChechiBot).
+
 
 Marie and I are moderating a [support group](https://t.me/MarieSupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
